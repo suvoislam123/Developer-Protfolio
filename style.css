@@ -18,8 +18,8 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-color: orange;
+    background-image: linear-gradient(orange,tomato);
     padding: 10px 25px;
     color: white;
-    font-weight: bold;
+    font-weight:700;
 }
