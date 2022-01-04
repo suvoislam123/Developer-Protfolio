@@ -23,3 +23,6 @@ section{
     color: white;
     font-weight:700;
 }
+.top-banner{
+    background-image: url(images/top-banner.png);
+}
